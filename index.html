@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="./CSS/styles.css" />
+    <title>Imersão Dev - Aula 09</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <img src="./CSS/logo-imersao-super-trunfo.png" class="page-logo" alt="" />
+      <h1 class="page-title">Super Trunfo</h1>
+
+      <button onclick="sortear()" id="btnSortear">Sortear carta</button>
+
+      <form id="form">
+        <h2>Escolha o seu atributo</h2>
+        <div class="wrapper">
+          <div id="placar"></div>
+          <div id="quantidade-cartas"></div>
+          <div id="cartas">
+            <div id="jogador" class="carta jogador"></div>
+            <div id="maquina" class="carta maquina"></div>
+          </div>
+          <button
+            class="button-jogar"
+            type="button"
+            id="btnJogar"
+            onclick="jogar()"
+            disabled="false"
+          >
+            Jogar
+          </button>
+        </div>
+        <div id="resultado"></div>
+        <div id="resultadoCartas"></div>
+        <button
+          type="button"
+          id="btnProximaRodada"
+          onclick="proximaRodada()"
+          disabled="true"
+        >
+          Proxima rodada
+        </button>
+      </form>
+    </div>
+  </body>
+
+  <script src="./JS/main.js"></script>
+</html>
