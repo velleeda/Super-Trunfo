@@ -9,3 +9,16 @@ O jogo foi criado para servir como **aprendizado**, utilizando fundamentos bási
 # Overview
 
 ![](./gifs/default.gif)
+
+# How to run
+
+```
+# Clone this repository
+$ git clone https://github.com/velleeda/Super-Trunfo
+
+# Go to the directory
+$ cd Super Trunfo
+
+# Run Game
+Open the index.html file
+```
