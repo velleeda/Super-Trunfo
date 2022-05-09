@@ -1,10 +1,10 @@
 # Super Trunfo
 
-Um pequeno jogo de cartas criado durante a **Imersão.Dev** da **Alura**; <br />
+A small card game created during **Alura**'s **Immersion.Dev**; <br />
 
-O jogo consiste em sortear uma carta aleatória e escolher 1 (um) atributo entre 3 (três) sendo eles ataque, defesa e magia, após escolher o atributo basta clicar no botão **Jogar**, o jogo irá verificar se o seu atributo é maior que o atributo da máquina, se for maior você **vence** e ganha 1 (um) ponto, se forem iguais ocorre um **empate** e ninguém recebe pontos, se for menor você **perde** e a máquina ganha 1 (um) ponto. **Ganha** quem possuir a maior quantidade de pontos quando as cartas acabarem; <br />
+The game consists of drawing a random card and choosing 1 (one) attribute among 3 (three), being them attack, defense and magic, after choosing the attribute just click on the **Play** button, the game will check if your attribute is greater than the machine attribute, if it is greater you **win** and earn 1 (one) point, if they are equal, there is a **tie** and no one receives points, if it is lower you **lose** and the machine earns 1 (one) point. **Win** whoever has the most points when the cards run out; <br />
 
-O jogo foi criado para servir como **aprendizado**, utilizando fundamentos básicos do javascript.
+The game was created to serve as **learning**, using basic javascript fundamentals.
 
 # Overview
 
